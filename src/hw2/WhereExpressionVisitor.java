@@ -1,5 +1,9 @@
-package hw1;
+package hw2;
 
+import hw1.Field;
+import hw1.IntField;
+import hw1.RelationalOperator;
+import hw1.StringField;
 import net.sf.jsqlparser.expression.ExpressionVisitorAdapter;
 import net.sf.jsqlparser.expression.operators.relational.ComparisonOperator;
 import net.sf.jsqlparser.expression.operators.relational.EqualsTo;

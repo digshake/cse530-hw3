@@ -1,6 +1,11 @@
-package hw1;
+package hw2;
 
 import java.util.ArrayList;
+
+import hw1.Field;
+import hw1.RelationalOperator;
+import hw1.Tuple;
+import hw1.TupleDesc;
 
 /**
  * This class provides methods to perform relational algebra operations. It will be used

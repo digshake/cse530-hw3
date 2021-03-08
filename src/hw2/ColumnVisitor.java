@@ -1,4 +1,4 @@
-package hw1;
+package hw2;
 
 import net.sf.jsqlparser.statement.select.AllColumns;
 import net.sf.jsqlparser.statement.select.SelectExpressionItem;

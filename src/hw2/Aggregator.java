@@ -1,8 +1,11 @@
-package hw1;
+package hw2;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
+
+import hw1.Tuple;
+import hw1.TupleDesc;
 
 /**
  * A class to perform various aggregations, by accepting one tuple at a time
